@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480777699 source:c:\documents and settings\guest\орн▒\chris's documents\projects\test\main.cpp
+	<iostream>
+	"wordList.h"
+
+1480777647 source:c:\documents and settings\guest\орн▒\chris's documents\projects\test\src\wordlist.cpp
+	"wordList.h"
+
+1480777647 c:\documents and settings\guest\орн▒\chris's documents\projects\test\include\wordlist.h
+
